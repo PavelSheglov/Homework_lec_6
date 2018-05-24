@@ -1,0 +1,3 @@
+Contact2 info1@mail.ru
+Contact4 info2@yandex.ru
+Contact6 info3@rambler.ru

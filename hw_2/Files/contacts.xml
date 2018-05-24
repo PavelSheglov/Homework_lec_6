@@ -1,0 +1,8 @@
+<Contacts>
+ <Contact Name="Contact1" Type="Phone">(383)212-21-21</Contact>
+ <Contact Name="Contact2" Type="Email">info1@mail.ru</Contact>
+ <Contact Name="Contact3" Type="Phone">(495)925-50-50</Contact>
+ <Contact Name="Contact4" Type="Email">info2@yandex.ru</Contact>
+ <Contact Name="Contact5" Type="Phone">(383)323-32-23</Contact>
+ <Contact Name="Contact6" Type="Email">info3@rambler.ru</Contact>
+</Contacts>
